@@ -1,0 +1,1 @@
+Practice katas found at https://ccd-school.de/coding-dojo/ implemented in Elixir for personal education.
