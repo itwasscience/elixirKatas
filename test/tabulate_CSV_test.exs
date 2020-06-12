@@ -2,7 +2,7 @@ defmodule TabulateCSVTest do
   use ExUnit.Case, async: true
 
   test "Ensure output matches sample provided" do
-    output = KataCSVTabuluate.print_CSV("tabulateCSV.csv")
+    output = KataCSVTabuluate.print_CSV("./sources/tabulateCSV.csv")
 
     expected_result = "Name         |Strasse         |Ort          |Alter|
 -------------+----------------+-------------+-----+
@@ -14,7 +14,7 @@ Paul Meier   |Münchener Weg 1 |87654 München|65   |
   end
 
   test "Ensure invalid result is invalid" do
-    output = KataCSVTabuluate.print_CSV("tabulateCSV.csv")
+    output = KataCSVTabuluate.print_CSV("./sources/tabulateCSV.csv")
     invalid_result = "FIZZBUZZ BAD DATA"
 
     refute invalid_result == output
