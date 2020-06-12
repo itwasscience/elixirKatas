@@ -21,5 +21,5 @@ Fizz
 FizzBuzz
 16"
     assert expected_result == output
-    end
+  end
 end
