@@ -4,7 +4,7 @@ Practice katas found at https://ccd-school.de/coding-dojo/ implemented in Elixir
 # Current Progress
 - [X] CSV tabellieren  – Nützlich für Konsolenprogramme
 - [X] FizzBuzz  – Ein Spiel nicht nur für Biertrinker
-- [ ] From Roman Numerals  – Herausforderung Parsing
+- [X] From Roman Numerals  – Herausforderung Parsing
 - [ ] Fröhliche Zahlen  – Wenn man sonst schon nichts zu lachen hat…
 - [ ] LOC  – Dem Quellcode zu Leibe rücken
 - [ ] Mail Followup  – Email-Adressen für Termine
