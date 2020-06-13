@@ -10,7 +10,7 @@ Practice katas found at https://ccd-school.de/coding-dojo/ implemented in Elixir
 - [ ] Mail Followup  – Email-Adressen für Termine
 - [X] (Caeser Cypher) ROT  – Streng vertraulich!
 - [X] (Russian Multiplication) Russische Bauernmultiplikation  – Bauernschläue mal anders
-- [ ] (Christmas Tree) Tannenbaum  – Eine Kata nicht nur für die Weihnachtszeit
+- [X] (Christmas Tree) Tannenbaum  – Eine Kata nicht nur für die Weihnachtszeit
 - [ ] (Word Wrap) Textumbruch – Bekannt auch als “Kata WordWrap”
 - [ ] ToDictionary 
 - [ ] To Roman Numerals  – Wie die alten Römer
