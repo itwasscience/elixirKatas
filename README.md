@@ -8,7 +8,7 @@ Practice katas found at https://ccd-school.de/coding-dojo/ implemented in Elixir
 - [X] Fröhliche Zahlen  – Wenn man sonst schon nichts zu lachen hat…
 - [ ] LOC  – Dem Quellcode zu Leibe rücken
 - [ ] Mail Followup  – Email-Adressen für Termine
-- [ ] ROT  – Streng vertraulich!
+- [X] ROT  – Streng vertraulich!
 - [ ] Russische Bauernmultiplikation  – Bauernschläue mal anders
 - [ ] Tannenbaum  – Eine Kata nicht nur für die Weihnachtszeit
 - [ ] Textumbruch – Bekannt auch als “Kata WordWrap”
