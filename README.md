@@ -2,16 +2,16 @@ Practice katas found at https://ccd-school.de/coding-dojo/ implemented in Elixir
 
 
 # Current Progress
-- [X] CSV tabellieren  – Nützlich für Konsolenprogramme
+- [X] (CSV Tabulation) CSV tabellieren  – Nützlich für Konsolenprogramme
 - [X] FizzBuzz  – Ein Spiel nicht nur für Biertrinker
 - [X] From Roman Numerals  – Herausforderung Parsing
-- [X] Fröhliche Zahlen  – Wenn man sonst schon nichts zu lachen hat…
+- [X] (Happy Numbers) Fröhliche Zahlen  – Wenn man sonst schon nichts zu lachen hat…
 - [ ] LOC  – Dem Quellcode zu Leibe rücken
 - [ ] Mail Followup  – Email-Adressen für Termine
-- [X] ROT  – Streng vertraulich!
-- [X] Russische Bauernmultiplikation  – Bauernschläue mal anders
-- [ ] Tannenbaum  – Eine Kata nicht nur für die Weihnachtszeit
-- [ ] Textumbruch – Bekannt auch als “Kata WordWrap”
+- [X] (Caeser Cypher) ROT  – Streng vertraulich!
+- [X] (Russian Multiplication) Russische Bauernmultiplikation  – Bauernschläue mal anders
+- [ ] (Christmas Tree) Tannenbaum  – Eine Kata nicht nur für die Weihnachtszeit
+- [ ] (Word Wrap) Textumbruch – Bekannt auch als “Kata WordWrap”
 - [ ] ToDictionary 
 - [ ] To Roman Numerals  – Wie die alten Römer
-- [ ] Zeichen zählen
+- [ ] (Count Characters) Zeichen zählen
