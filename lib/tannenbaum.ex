@@ -20,6 +20,6 @@ defmodule KataTannenbaum do
   end
 
   defp draw_star(size) do
-    String.duplicate(" ", size - 1) <> "🟍\n"
+    String.duplicate(" ", size - 1) <> "🟍"
   end
 end
