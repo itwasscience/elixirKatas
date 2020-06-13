@@ -9,7 +9,7 @@ Practice katas found at https://ccd-school.de/coding-dojo/ implemented in Elixir
 - [ ] LOC  – Dem Quellcode zu Leibe rücken
 - [ ] Mail Followup  – Email-Adressen für Termine
 - [X] ROT  – Streng vertraulich!
-- [ ] Russische Bauernmultiplikation  – Bauernschläue mal anders
+- [X] Russische Bauernmultiplikation  – Bauernschläue mal anders
 - [ ] Tannenbaum  – Eine Kata nicht nur für die Weihnachtszeit
 - [ ] Textumbruch – Bekannt auch als “Kata WordWrap”
 - [ ] ToDictionary 
